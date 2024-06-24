@@ -10,6 +10,9 @@
 </head>
 <h1>Hello World! First Website</h1>
   <h2>test heading 2</h2>
+    <h3>test heading 3</h3>
+    <p>test paragraph 1. locom</p>
+
 <body>
     
 </body>
